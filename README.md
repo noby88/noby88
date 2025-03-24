@@ -16,7 +16,16 @@ Accessability and customization is the main focus
 
 All components by default with aria props.
 
-Any of the styling can be overwritten (recommended with Styled Components). None of the headaches when needing to change the styling juts a bit. One of the motives behind this package are the frustration with other UI kits like Material UI when it comes to adding your unique twist.
+Any of the styling can be overwritten (recommended with Styled Components). None of the headaches when needing to change the styling juts a bit. One of the motives behind this package are the frustration with other UI kits like Material UI when it comes to adding your unique twist
+
+## Hobby apps
+
+### Ping ping score
+
+Got tied of akarata asking "what's the score" on the middle of the match.  
+A simple nextjs application, with supabse as the database. Can share your link for the match so multiple people/devices can keep track of the same match. The points will live update when someone else updates the score.
+
+Try it out [here](https://ping-pong-score-alpha.vercel.app)
 
 ## Fitbit clock faces
 
